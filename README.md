@@ -21,7 +21,8 @@ ReactJS is an open-source JavaScript-based user interface library. It is insanel
 
 **Step by Step**:
 
-1- `Intro to JSX` > https://github.com/binhosemcrause/1-intro-to-jsx
+1 - `Intro to JSX` > https://github.com/binhosemcrause/1-intro-to-jsx
+2 - `JSX code challenge` > https://github.com/binhosemcrause/2-jsx-code-challenge
 
 
 Roadmap
