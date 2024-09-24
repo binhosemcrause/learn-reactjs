@@ -21,13 +21,13 @@ ReactJS is an open-source JavaScript-based user interface library. It is insanel
 
 **Step by Step**:
 
-1. `Intro to JSX` > https://github.com/binhosemcrause/1-intro-to-jsx
-2. `JSX code challenge` > https://github.com/binhosemcrause/2-jsx-code-challenge
-3. `JavaScript expressions in JSX Challenge` > https://github.com/binhosemcrause/3-javascript-expressions-in-jsx-challenge
-4. `JSX attribute and styling` > https://github.com/binhosemcrause/4-jsx-attributes-and-styling
-4. `JSX attribute and styling Challenge` > https://github.com/binhosemcrause/4-jsx-attributes-and-styling-challenge
-5. `Inline Styling in JSX` > https://github.com/binhosemcrause/5-inline-styling-in-jsx
-6. `React Styling Challenge` > https://github.com/binhosemcrause/6-react-styling-challenge
+1. `1- Intro to JSX` > https://github.com/binhosemcrause/1-intro-to-jsx
+2. `2- JSX code challenge` > https://github.com/binhosemcrause/2-jsx-code-challenge
+3. `3- JavaScript expressions in JSX Challenge` > https://github.com/binhosemcrause/3-javascript-expressions-in-jsx-challenge
+4. `4- JSX attribute and styling` > https://github.com/binhosemcrause/4-jsx-attributes-and-styling
+5. `4- JSX attribute and styling Challenge` > https://github.com/binhosemcrause/4-jsx-attributes-and-styling-challenge
+6. `5- Inline Styling in JSX` > https://github.com/binhosemcrause/5-inline-styling-in-jsx
+7. `6- React Styling Challenge` > https://github.com/binhosemcrause/6-react-styling-challenge
 
 
 Roadmap
